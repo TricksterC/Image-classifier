@@ -3,6 +3,8 @@
 This project implements a Convolutional Neural Network (CNN) using TensorFLow/Keras for binary image classification. 
 The dataset used for the project is made up of faces of happy and sad people, and was scraped from Google Images (using a browser extension) and consists of 100+ images across the two classes.
 
+The repository also contains a simple script to use a Python script `collect_dataset.py` to collect a manual dataset using a Raspberry Pi Camera system.
+
 ## Evaluation metrics:
 - `Accuracy : 0.8000`
 - `Precision: 0.6667`
