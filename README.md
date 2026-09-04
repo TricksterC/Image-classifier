@@ -5,7 +5,11 @@ The dataset used for the project is made up of faces of happy and sad people, an
 
 The repository also contains a simple script to use a Python script `collect_dataset.py` to collect a manual dataset using a Raspberry Pi Camera system.
 
-`image_classifier_docs.txt` contains detailed documentation written for my own understanding. It explains each major feature and concept used in the project of each every major feature. If you're a beginner like me, this is a good place to start for a deeper understanding of what's happening under the hood.
+## Technical Documentation
+
+For a deeper dive into the project, including CNN architecture, data preprocessing, training process, evaluation, and inference, see: **[docs](DOCS.md)**
+
+This document was primarily written for my own understanding and explains the major concepts used in the project. If you're a beginner like me, it's a good place to start for a deeper understanding of what's happening under the hood. 
 
 ## Evaluation metrics:
 - `Accuracy : 0.8000`
